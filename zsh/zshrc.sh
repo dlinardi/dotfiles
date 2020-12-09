@@ -84,3 +84,4 @@ fi
 
 source ~/dotfiles/zsh/prompt.sh
 export PATH=$PATH:$HOME/dotfiles/utils
+export PATH=$HOME/Library/Python/3.8/bin:$PATH
